@@ -20,3 +20,4 @@ O objetivo deste projeto é colocar em prática os conhecimentos adquiridos sobr
 - [Rafaella Reis](https://github.com/faellareis)# pikachu-2024-bb
 # pikachu-2024-bb
 # pikachu-2024-bb
+# pikachu-2024-bb
